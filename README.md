@@ -100,7 +100,7 @@
 
 <td align="center" width="20%">
 <span><b><center>MongoDB</center></b></span> <br/>
-<img height=75px src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img height=75px src="https://img.icons8.com/color/64/000000/mongodb.png"/>
  </td>
 
 </tr>
