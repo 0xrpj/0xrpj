@@ -1,5 +1,5 @@
 <h1> Hi, I'm Roshan Parajuli  <img src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px"> 
-  <img align="right" src="hhttps://www.roshanparajuli.com.np/avatar.png" width="150px" height="160px">
+  <img align="right" src="https://www.roshanparajuli.com.np/avatar.png" width="150px" height="160px">
 </h1>
 <p>I am a computer science undergraduate and web-developer (soon) of 20 years of age who is aspiring to become the best version of myself. I am into freelancing as of present. 
   <a href="https://www.roshanparajuli.com.np" target="_blank">My complete portfolio.</a></p>
