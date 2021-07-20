@@ -1,8 +1,7 @@
 <h1> Hi, I'm Roshan Parajuli  <img src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px"> 
 <!--   <img align="right" src="https://www.roshanparajuli.com.np/avatar.png" width="150px" height="160px"> -->
 </h1>
-<p>I am a computer science undergraduate of 21 years of age who is aspiring to become the best version of myself. I am into freelancing as of present. 
-  <a href="https://www.roshanparajuli.com.np" target="_blank">My complete portfolio.</a></p>
+<p><a href="https://www.roshanparajuli.com.np" target="_blank">www.roshanparajuli.com.np</a></p>
 
 
 [![Discord](https://img.shields.io/discord/657590804914634772?color=brightgreen&label=Join%20my%20Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/EWdKEZSZcp)
