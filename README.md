@@ -1,6 +1,10 @@
 <h1> Hi, I'm Roshan Parajuli  <img src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px"> 
 <!--   <img align="right" src="https://www.roshanparajuli.com.np/avatar.png" width="150px" height="160px"> -->
 </h1>
+
+<p>I am a Computer Science undergraduate currently investing my time in learning data science and machine learning. </p>
+ 
+ 
 <p><a href="https://www.roshanparajuli.com.np" target="_blank">www.roshanparajuli.com.np</a></p>
 
 
