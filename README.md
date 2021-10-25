@@ -16,7 +16,7 @@
 
 ![Resume](https://i.imgur.com/V1BtfHA.png)
 
-## Tech Stack :computer:
+<!-- ## Tech Stack :computer:
 <br/>
 <center>
 <table>
@@ -113,6 +113,8 @@
 </tr>
 
 </tbody>
-</table>
+</table> -->
 
+<img src="https://visitor-badge.glitch.me/badge?page_id=rsnpj" height="20">
+ 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends,</b> so if you want to say <b>hi, I'll be happy to talk to you!</b> :)</em>
