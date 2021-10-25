@@ -1,16 +1,20 @@
-<h1> Hi, I'm Roshan Parajuli  <img src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px"> 
+<h1> Who am I? Spiderman? No.  <img src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px"> 
 <!--   <img align="right" src="https://www.roshanparajuli.com.np/avatar.png" width="150px" height="160px"> -->
 </h1>
 
 <p>I am a Computer Science undergraduate currently investing my time in learning data science and machine learning. </p>
  
  
-<p><a href="https://www.roshanparajuli.com.np" target="_blank">www.roshanparajuli.com.np</a></p>
+<p>My portfolio: <a href="https://www.roshanparajuli.com.np" target="_blank">roshanparajuli.com.np</a></p>
 
 
 [![Discord](https://img.shields.io/discord/657590804914634772?color=brightgreen&label=Join%20my%20Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/EWdKEZSZcp)
 <a href="https://www.youtube.com/channel/UCVJyOzRYgyZWz-27mJaUCCA?sub_confirmation=1"><img src="https://img.shields.io/badge/Subscribe%20my-Youtube%20Channel-red.svg?style=for-the-badge&logo=youtube" alt="Subscribe my Youtube Channel"></a>
 <a href="https://www.linkedin.com/in/rsnpj/"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue.svg?style=for-the-badge&logo=LinkedIn"></a>
+
+## Professional representation 👨‍🎓:
+
+![Resume](https://i.imgur.com/V1BtfHA.png)
 
 ## Tech Stack :computer:
 <br/>
