@@ -2,7 +2,7 @@
 <!--   <img align="right" src="https://www.roshanparajuli.com.np/avatar.png" width="150px" height="160px"> -->
 </h1>
 
-<p>I am a Computer Science undergraduate currently investing my time in learning data science and machine learning. </p>
+<p>I am a Computer Science undergraduate currently investing my time in learning blockchain and machine learning. </p>
  
  
 <p>My portfolio: <a href="https://www.roshanparajuli.com.np" target="_blank">roshanparajuli.com.np</a></p>
