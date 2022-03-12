@@ -1,7 +1,7 @@
   <img src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px"> 
 
 
-<h1>A nerdy developer.</h1>
+<h1>I'm a DEV.</h1>
  
 I am not defined by any programming languages. Can work on any ;).
  
