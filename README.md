@@ -9,10 +9,10 @@ I am not defined by any programming languages. Can work on any ;).
 
 
 <!-- [![Discord](https://img.shields.io/discord/657590804914634772?color=brightgreen&label=Join%20my%20Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/EWdKEZSZcp) -->
-<a href="https://t.me/rsnpj/"><img src="https://img.shields.io/badge/Telegram-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<!-- <a href="https://t.me/rsnpj/"><img src="https://img.shields.io/badge/Telegram-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 <a href="https://www.youtube.com/channel/UCVJyOzRYgyZWz-27mJaUCCA?sub_confirmation=1"><img src="https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube" alt="YOUTUBE"></a>
-
+ -->
 <a href="https://www.linkedin.com/in/rsnpj/"><img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=LinkedIn"></a> 
 
 <!-- <img alt="Roshan Parajuli's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rsnpj&bg_color=ffffff&color=000000&line=FFD700&point=000000&hide_border=true" />
