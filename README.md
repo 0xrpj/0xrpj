@@ -12,9 +12,9 @@
 <a href="https://www.youtube.com/channel/UCVJyOzRYgyZWz-27mJaUCCA?sub_confirmation=1"><img src="https://img.shields.io/badge/Subscribe%20my-Youtube%20Channel-red.svg?style=for-the-badge&logo=youtube" alt="Subscribe my Youtube Channel"></a>
 <a href="https://www.linkedin.com/in/rsnpj/"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue.svg?style=for-the-badge&logo=LinkedIn"></a>
 
-## Professional representation 👨‍🎓:
+<!-- ## Professional representation 👨‍🎓: -->
 
-![Resume](https://i.imgur.com/V1BtfHA.png)
+<!-- ![Resume](https://i.imgur.com/V1BtfHA.png) -->
 
 <!-- ## Tech Stack :computer:
 <br/>
