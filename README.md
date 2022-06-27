@@ -1,9 +1,13 @@
   <img src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px"> 
 
 
-<h1>I'm a DEV.</h1>
+<h1>I'm a Blockchain DEV. </h1>
+<em>
+
+<span>🟢 Smart Contracts (Code/Audit)? I got you. <br/><br/>🟢 MERN? I got you. <br/><br/>🟢 Need me as a tutor? I got you.</span>
+ </em>
  
-I am not defined by any programming languages. Can work on any ;).
+<!-- I am not defined by any programming languages. Can work on any ;). -->
  
 <a href="https://www.roshanparajuli.com.np" target="_blank">Personal page that I built years ago.</a>
 
