@@ -4,7 +4,7 @@
 <h1>I'm a Blockchain DEV. </h1>
 <em>
 
-<span>🟢 Smart Contracts (Code/Audit)? I got you. <br/><br/>🟢 MERN? I got you. <br/><br/>🟢 Need me as a tutor? I got you.</span>
+<span>🟢 Smart Contracts? I got you. <br/><br/>🟢 MERN? I got you.</span>
  </em>
  
 <!-- I am not defined by any programming languages. Can work on any ;). -->
