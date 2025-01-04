@@ -1,4 +1,4 @@
-  <img src = "https://raw.githubusercontent.com/0xrpj/0xrpj/refs/heads/master/CV.png" width ="600px" height="900px"> 
+  <img src = "https://raw.githubusercontent.com/0xrpj/0xrpj/refs/heads/master/CV.png" width ="650px" height="900px"> 
 
 <!--
 <h1>I'm a Blockchain DEV. </h1>
