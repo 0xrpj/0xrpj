@@ -1,7 +1,7 @@
 
 <!-- <img src = "https://raw.githubusercontent.com/0xrpj/0xrpj/refs/heads/master/CV.png" width ="650px" height="900px"> -->
 
-<a href="https://www.youtube.com/channel/UCVJyOzRYgyZWz-27mJaUCCA?sub_confirmation=1">About me</a>
+<a href="https://roshanparajuli.com.np">About me</a>
 <!--
 <h1>I'm a Blockchain DEV. </h1>
 <em>
